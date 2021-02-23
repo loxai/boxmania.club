@@ -17,12 +17,19 @@ Due to reasons, the project was halted and I'm not likely to go on with it, so I
 Note that the project won't build as it is, since it needs the following libraries (download/purchase from Unity Asset Store, or replace them with your own, eg. using other vfx lib):
 
 https://assetstore.unity.com/packages/tools/audio/audioimporter-146746
+
 https://assetstore.unity.com/packages/tools/audio/rhythmtool-15679
+
 https://assetstore.unity.com/packages/tools/input-management/simple-obj-22195
+
 https://assetstore.unity.com/packages/tools/gui/vr-ui-kit-material-design-system-135769
+
 https://assetstore.unity.com/packages/vfx/particles/spells/mesh-effects-67803
+
 https://assetstore.unity.com/packages/vfx/particles/effect-textures-and-prefabs-109031
+
 https://assetstore.unity.com/packages/tools/video/youtube-dl-video-player-161547
+
 https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
 
 Also removed the songs, you'll need to add your own.
