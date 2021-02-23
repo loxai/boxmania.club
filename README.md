@@ -28,11 +28,17 @@ https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
 Also removed the songs, you'll need to add your own.
 
 Check out some sample videos here:
+
 https://www.youtube.com/watch?v=2WRg463zL7k
+
 https://www.youtube.com/watch?v=36VNu_sPs0g
+
 And youtube playtests, creating and playing a song map:
+
 https://www.youtube.com/watch?v=OWp88YuSH44
+
 https://www.youtube.com/watch?v=h9q5krQU3EI
+
 
 ![screenshot4](https://user-images.githubusercontent.com/4170770/108858260-3fea8d80-75ec-11eb-87fb-7fbe5c3abeb4.JPG)
 
