@@ -1,3 +1,5 @@
+![boxUnityDev](https://user-images.githubusercontent.com/4170770/108858266-437e1480-75ec-11eb-94a6-b9f11b93a70c.jpg)
+
 Almost 2 years ago, I started developing this rhythm game called boxmania.club
 These are the main features:
 - Oculus Quest and PC compatible (so playable in VR or pancake mode)
@@ -7,6 +9,8 @@ These are the main features:
 - *asymmetrical multiplayer/dj mode (one player creates song map in real time, 1 or more other players try to keep up with the beats). Using a common song or youtube clip. This could also be combined with the real time song creation mode
 
 * partially or not implemented yet
+
+![screenshot3](https://user-images.githubusercontent.com/4170770/108858161-247f8280-75ec-11eb-892d-5e1b7a6d3b2a.JPG)
 
 Due to reasons, the project was halted and I'm not likely to go on with it, so I've decided to share the source in case someone would like to move it forward or learn how to make a rhythm game (I'm not a guru coder, source as proof :p)
 
@@ -29,6 +33,8 @@ https://www.youtube.com/watch?v=36VNu_sPs0g
 And youtube playtests, creating and playing a song map:
 https://www.youtube.com/watch?v=OWp88YuSH44
 https://www.youtube.com/watch?v=h9q5krQU3EI
+
+![screenshot4](https://user-images.githubusercontent.com/4170770/108858260-3fea8d80-75ec-11eb-87fb-7fbe5c3abeb4.JPG)
 
 I still think the game has potential. It is actually fun to play! (Also great as a VR fitness game)
 You can download and play current version here:
