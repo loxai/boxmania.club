@@ -8,7 +8,7 @@ These are the main features:
 - load your own mp3s or *youtube songs. Tired of electronic music? The game works well with rock, metal, pop... even country :) There's an automapper implemented, so customs songs are analysed and a map created on the fly (you can still create and share your own maps, of course)
 - *asymmetrical multiplayer/dj mode (one player creates song map in real time, 1 or more other players try to keep up with the beats). Using a common song or youtube clip. This could also be combined with the real time song creation mode
 
-* partially or not implemented yet
+** partially or not implemented yet
 
 ![screenshot3](https://user-images.githubusercontent.com/4170770/108858161-247f8280-75ec-11eb-892d-5e1b7a6d3b2a.JPG)
 
